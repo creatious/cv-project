@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/creatious/cv-project.git/static/css/main.1dc5689b.css",
-    "main.js": "/creatious/cv-project.git/static/js/main.5200ff9a.js",
-    "index.html": "/creatious/cv-project.git/index.html",
-    "main.1dc5689b.css.map": "/creatious/cv-project.git/static/css/main.1dc5689b.css.map",
-    "main.5200ff9a.js.map": "/creatious/cv-project.git/static/js/main.5200ff9a.js.map"
+    "main.css": "/cv-project/static/css/main.1dc5689b.css",
+    "main.js": "/cv-project/static/js/main.64c1588a.js",
+    "index.html": "/cv-project/index.html",
+    "main.1dc5689b.css.map": "/cv-project/static/css/main.1dc5689b.css.map",
+    "main.64c1588a.js.map": "/cv-project/static/js/main.64c1588a.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc5689b.css",
-    "static/js/main.5200ff9a.js"
+    "static/js/main.64c1588a.js"
   ]
 }
