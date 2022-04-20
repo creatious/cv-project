@@ -1,0 +1,14 @@
+.section-header {
+  text-align: left;
+}
+
+.section-info {
+  text-align: left;
+  padding: 0;
+}
+
+.name,
+.email,
+.text {
+  padding: 0 0 10px 0;
+}
